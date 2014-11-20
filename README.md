@@ -40,10 +40,6 @@ To install 𝔣𝔯𝔞𝔨𝔱𝔲𝔯, simply:
 
 [𝔣𝔯𝔞𝔨𝔱𝔲𝔯 𝔲𝔫𝔦𝔠𝔬𝔡𝔢 𝔠𝔥𝔞𝔯𝔞𝔠𝔱𝔢𝔯𝔰](http://www.fileformat.info/info/unicode/char/search.htm?q=fraktur&preview=entity)
 
-# 𝔄𝔲𝔱𝔥𝔬𝔯
-
-𝔗𝔞𝔢𝔥𝔬𝔬𝔫 𝔎𝔦𝔪 / [@𝔠𝔞𝔯𝔭𝔢𝔡𝔪20](http://carpedm20.github.io/about/)
-
 # 𝔏𝔦𝔠𝔢𝔫𝔰𝔢
 
 𝔐𝕴𝔗

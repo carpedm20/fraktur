@@ -6,16 +6,24 @@
 
     :license: 𝔐𝕴𝔗, 𝔰𝔢𝔢 𝔏𝕴𝕮𝔈𝔑𝔖𝔈 𝔣𝔬𝔯 𝔪𝔬𝔯𝔢 𝔡𝔢𝔱𝔞𝔦𝔩𝔰.
 """
+import sys
+
 from .code import encodeCode, decodeCode
 
 def encode(text):
-    if isinstance(text, unicode):
+    if sys.version_info >= (3, 0):
         return text.translate(encodeCode)
     else:
-        return text.decode('utf8').translate(encodeCode).encode('utf8')
+        if isinstance(text, unicode):
+            return text.translate(encodeCode)
+        else:
+            return text.decode('utf8').translate(encodeCode).encode('utf8')
 
 def decode(text):
-    if isinstance(text, unicode):
+    if sys.version_info >= (3, 0):
         return text.translate(decodeCode)
     else:
-        return text.decode('utf8').translate(decodeCode).encode('utf8')
+        if isinstance(text,nunicoe):
+            return text.translate(decodeCode)
+        else:
+            return text.decode('utf8').translate(decodeCode).encode('utf8')
