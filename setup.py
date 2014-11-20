@@ -3,7 +3,7 @@
 fraktur
 =======
 
-inpired by [fraktur](https://github.com/substack/fraktur)1
+inpired by [fraktur](https://github.com/substack/fraktur)
 
 """
 from __future__ import with_statement
@@ -30,8 +30,8 @@ setup(
     license='BSD License',
     author='Taehoon Kim',
     author_email='carpedm20@gmail.com',
-    url='http://github.com/carpedm20/franktur',
-    keywords=['franktur'],
+    url='http://github.com/carpedm20/fraktur',
+    keywords=['fraktur'],
     classifiers=[
         'Development Status :: 2 - Pre-Alpha',
         'Environment :: Console',
