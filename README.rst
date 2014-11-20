@@ -47,7 +47,6 @@ Example
 .. figure:: https://raw.githubusercontent.com/carpedm20/fraktur/master/example/example.png
    :alt: example
 
-   example
 𝔏𝔦𝔫𝔨
 ====
 
