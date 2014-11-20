@@ -32,7 +32,7 @@ To install 𝔣𝔯𝔞𝔨𝔱𝔲𝔯, simply:
     print fraktur.encode(quote)
     print
     print fraktur.decode(fraktur.encode(quote))
-
+<br/>
 ![example](https://raw.githubusercontent.com/carpedm20/fraktur/master/example/example.png)
 
 
