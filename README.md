@@ -11,13 +11,39 @@ To install 𝔣𝔯𝔞𝔨𝔱𝔲𝔯, simply:
 
     $ pip install fraktur
 
-# 𝔲𝔰𝔞𝔤𝔢
+# 𝔘𝔰𝔞𝔤𝔢
 
     import fraktur
 
     print fraktur.encode('Carpe Diem')
     print fraktur.decode(u'𝕮𝔞𝔯𝔭𝔢 𝔇𝔦𝔢𝔪')
 
-# 𝔩𝔦𝔠𝔢𝔫𝔰𝔢
+# Example
+
+    import fraktur
+
+    quote = """So avoid using the word 'very' because it's lazy.
+    A man is not very tired, he is exhausted.
+    Don't use very sad, use morose.
+    Language was invented for one reason,
+    boys - to woo women - and, in that endeavor,
+    laziness will not do. It also won't do in your essays."""
+
+    print fraktur.encode(quote)
+    print
+    print fraktur.decode(fraktur.encode(quote))
+
+![example](https://raw.githubusercontent.com/carpedm20/fraktur/master/example/example.png)
+
+
+# 𝔏𝔦𝔫𝔨
+
+[𝔣𝔯𝔞𝔨𝔱𝔲𝔯 𝔲𝔫𝔦𝔠𝔬𝔡𝔢 𝔠𝔥𝔞𝔯𝔞𝔠𝔱𝔢𝔯𝔰](http://www.fileformat.info/info/unicode/char/search.htm?q=fraktur&preview=entity)
+
+# 𝔄𝔲𝔱𝔥𝔬𝔯
+
+𝔗𝔞𝔢𝔥𝔬𝔬𝔫 𝔎𝔦𝔪 / [@𝔠𝔞𝔯𝔭𝔢𝔡𝔪20](http://carpedm20.github.io/about/)
+
+# 𝔏𝔦𝔠𝔢𝔫𝔰𝔢
 
 𝔐𝕴𝔗
