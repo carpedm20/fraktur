@@ -18,7 +18,7 @@ To install 𝔣𝔯𝔞𝔨𝔱𝔲𝔯, simply:
     print fraktur.encode('Carpe Diem')
     print fraktur.decode(u'𝕮𝔞𝔯𝔭𝔢 𝔇𝔦𝔢𝔪')
 
-# Example
+# 𝕰𝖝𝖆𝖒𝖕𝖑𝖊
 
     import fraktur
 
