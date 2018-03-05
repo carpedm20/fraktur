@@ -1,9 +1,9 @@
 # 𝔣𝔯𝔞𝔨𝔱𝔲𝔯
 
-[![PyPi version](https://pypip.in/v/fraktur/badge.png?style=flat)](https://pypi.python.org/pypi/fraktur)
-[![PyPi downloads](https://pypip.in/d/fraktur/badge.png?style=flat)](https://pypi.python.org/pypi/fraktur)
-[![PyPi status](https://pypip.in/status/fraktur/badge.svg?style=flat)](https://pypi.python.org/pypi/fraktur)
-[![PyPi license](https://pypip.in/license/fraktur/badge.svg?style=flat)](https://pypi.python.org/pypi/fraktur)
+[![PyPi version](https://img.shields.io/pypi/v/fraktur.svg?style=flat)](https://pypi.python.org/pypi/fraktur)
+[![PyPi downloads](https://img.shields.io/pypi/dm/fraktur.svg?style=flat)](https://pypi.python.org/pypi/fraktur)
+[![PyPi status](https://img.shields.io/pypi/status/fraktur.svg?style=flat)](https://pypi.python.org/pypi/fraktur)
+[![PyPi license](https://img.shields.io/pypi/l/fraktur.svg?style=flat)](https://pypi.python.org/pypi/fraktur)
 
 𝔠𝔬𝔫𝔳𝔢𝔯𝔱 𝔱𝔥𝔢 𝔩𝔞𝔱𝔦𝔫 𝔞𝔩𝔭𝔥𝔞𝔟𝔢𝔱 𝔱𝔬
 [𝔣𝔯𝔞𝔨𝔱𝔲𝔯 𝔲𝔫𝔦𝔠𝔬𝔡𝔢 𝔠𝔥𝔞𝔯𝔞𝔠𝔱𝔢𝔯𝔰](http://www.fileformat.info/info/unicode/char/search.htm?q=fraktur&preview=entity)
